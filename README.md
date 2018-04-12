@@ -1,5 +1,5 @@
 # iris-python
-Machine learning using Iris dataset
+Machine learning using Iris dataset (all is plain with no related-machine-learning-library)
 - Python 3
 - Jupyter Notebook
 
